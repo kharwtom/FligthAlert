@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FligthAlert</string>
+    <string name="title_activity_show_infomation">ShowInfomation</string>
+    <string name="title_activity_your_location">Map</string>
+</resources>
